@@ -1,0 +1,8 @@
+packages:
+  - 'packages/hooks'
+  - 'packages/components'
+  - 'packages/utils'
+  - 'packages/gymnastics'
+  - 'packages/eslint-plugin'
+  - 'packages/eslint-config'
+  - 'packages/cli-tools'
